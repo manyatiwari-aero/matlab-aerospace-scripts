@@ -1,2 +1,2 @@
-# matlab-aerospace-scripts
-MATLAB scripts for aerospace simulations 
+
+# MATLAB Aerospace Scripts MATLAB scripts for aerospace simulation and analysis. Written during my 60-day aerospace skill development plan. ## Scripts ### falling_body.m Simulates an object falling under gravity (vacuum assumption). Plots velocity and distance fallen vs time using MATLAB subplots. **Physics:** v = g·t and h = ½·g·t² **Skills:** colon operator, element-wise operations, subplot, plot ### How to run 1. Open MATLAB 2. Set current folder to this directory 3. Open the script and press F5 (or click Run) ## About **Student:** [Manya Tiwari] | Aerospace Engineering, Year 2 **Institution:** [KIIT University] **Skills practised:** MATLAB, simulation, data visualisation
